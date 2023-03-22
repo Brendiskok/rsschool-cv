@@ -39,10 +39,12 @@ public static void Swap() {
 * Introduction to Java Online on [training.by](https://training.by/#!/Training/2397?lang=ru) (in progress)   
 ## Languages:
 * English - Intermediate/Upper-intermediate (according to the online test at [EFset]( Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org)  
-![my english test result](/images/markdown/englishtest.png) 
+![my english test result](/images/markdown/englishtest.png)    
 * Russian - Native    
 * Belarusian - Native  
 * German - Beginner  
+
+
 
 
 
